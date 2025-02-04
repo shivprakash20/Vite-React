@@ -1,0 +1,11 @@
+.counter-card{
+    display: flex;
+    gap: 10px; // Adds a 10px space between child elements
+    background-color: transparent;
+    padding: 10px;
+    border: 1px solid #f9f6f6;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}

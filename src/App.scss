@@ -1,3 +1,14 @@
 .body-container {
     background-color: rgb(242, 242, 239);
   }
+
+  .card-component {
+    display: flex;
+    gap: 10px; // Adds a 10px space between child elements
+    background-color: transparent;
+  }  
+
+  .main-container{
+    height: calc(100vh - 80px);
+    overflow: auto;
+  }
