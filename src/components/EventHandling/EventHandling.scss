@@ -1,0 +1,10 @@
+.container {
+    width: 100vw; // Full viewport width
+    max-width: 100%; // Prevents unwanted max-width restrictions
+    padding: 20px; // Adds some spacing
+  }
+  
+  .card {
+    width: 100%; // Ensures the card takes full width of the container
+  }
+  
